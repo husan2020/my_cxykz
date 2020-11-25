@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <div id="nav">
-      aaaa
+      aaaa啊啊啊啊
     </div>
     <router-view/>
   </div>
